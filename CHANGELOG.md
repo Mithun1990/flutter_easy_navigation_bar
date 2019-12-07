@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [1.0.2] - 07 December, 2019
 
-* TODO: Describe initial release.
+* Demo example added and indicator color added in library.

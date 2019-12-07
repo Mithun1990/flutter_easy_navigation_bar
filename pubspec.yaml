@@ -1,8 +1,8 @@
 name: easy_bottom_navigation_bar
 description: A new Flutter widget for easy bottom navigation bar.
-version: 0.0.1
-author:
-homepage:
+version: 1.0.2
+author: Forhad Naim <developermithun1990@gmail.com>
+homepage: https://github.com/Mithun1990/flutter_easy_navigation_bar.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
