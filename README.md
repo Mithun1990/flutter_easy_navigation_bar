@@ -5,6 +5,31 @@ A new Flutter widget for easy bottom navigation bar.
 ## Dependencies
 dependencies:
   easy_bottom_navigation_bar: ^1.0.1
+  
+## Import the package
+import 'package:easy_bottom_navigation_bar/easy_bottom_navigation_bar.dart';
+
+## Adding widget
+
+     bottomNavigationBar: EasyBottomNavigationBar(
+          onTap: (index) {
+            _currentIndex = index;
+          },
+          indicatorColor: Colors.white,
+          selectedIndex: _currentIndex,
+          items: [
+            EasyNavigationBarItem(
+                title: "Home", icon: Icons.home, widget: null),
+            EasyNavigationBarItem(
+                title: "Profile",
+                icon: Icons.supervised_user_circle,
+                widget: null),
+            EasyNavigationBarItem(
+                title: "Flight", icon: Icons.flight, widget: null)
+          ],
+          activeIconColor: Colors.white,
+          iconColor: Colors.black26),
+    );
 
 ## Getting Started
 
