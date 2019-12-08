@@ -12,6 +12,9 @@ samples, guidance on mobile development, and a full API reference.
 # easy_bottom_navigation_bar
 A new Flutter widget for easy bottom navigation bar.
 
+## Preview
+[<img src="https://i9.ytimg.com/vi/molD_VUcDXs/mq2.jpg?sqp=CJWdsu8F&rs=AOn4CLD2BeKxyRJ4wbXISHiMVKtC6PhKnw" width="50%">](https://youtu.be/molD_VUcDXs)
+
 ## Dependencies
 dependencies:
   easy_bottom_navigation_bar: ^1.0.1
