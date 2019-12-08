@@ -10,7 +10,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # easy_bottom_navigation_bar
-
 A new Flutter widget for easy bottom navigation bar.
 
 ## Dependencies
